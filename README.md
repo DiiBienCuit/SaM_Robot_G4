@@ -3,6 +3,7 @@ Groupe 4
 
 ## Matériels:
 * Robot 2
-* capteur de luminosité
-* capteur d'infrarouge (ou ultrasonic)
+* capteur de luminosité  4
+* capteur d'infrarouge 
 * afficheur  (pour visualiser distance/luminosité)
+
